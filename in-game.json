@@ -1,14 +1,24 @@
 {
-  "manifest": 1
-  "name": "PD:GS NONG List"
-  "id": "pdgs-nong"
-  "description": "NONGs for PD:GS as well as other Vocaloid NONGs"
-  "_commment": "let's hope to god this works"
+  "manifest": 1,
+  "name": "Vocaloid NONG list",
+  "id": "vocaloid-nong-list",
+  "description": "A NONG index of Vocaloid songs",
+  "lastUpdate": 1700000000,
+  "features": {
+    "submit": {
+      "supportedSongTypes": ["hosted"]
+    }
+  },
+  "nongs": {
+    "hosted": {
+      {
+        "name": "World Is Mine (Short Version)",
+        "artist": "ryo(supercell)",
+        "startOffset": 0,
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/hatsune-miku-project-diva-mega-mix-plus-windows-gamerip-2022/yzawurdzew/2-002.mp3",
+        "songs": [500038]
+      }
+    },
+    "youtube": {}
+  }
 }
-
-[{
-  "name": "World Is Mine (Short Version)",
-  "artist": "ryo(supercell)",
-  "url": "https://jetta.vgmtreasurechest.com/soundtracks/hatsune-miku-project-diva-mega-mix-plus-windows-gamerip-2022/yzawurdzew/2-002.mp3"
-  "songs": [500038]
-}]
