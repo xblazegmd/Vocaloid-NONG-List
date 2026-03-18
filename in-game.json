@@ -1,9 +1,14 @@
-[
-  {
-    "name": "World Is Mine (Short Version)",
-    "artist": "ryo(supercell)",
-    "source": "",
-    "yt-id": "",
-    "songs": [500038]
-  },
-]
+{
+  "manifest": 1
+  "name": "PD:GS NONG List"
+  "id": "pdgs-nong"
+  "description": "NONGs for PD:GS as well as other Vocaloid NONGs"
+  "_commment": "let's hope to god this works"
+}
+
+[{
+  "name": "World Is Mine (Short Version)",
+  "artist": "ryo(supercell)",
+  "url": "https://jetta.vgmtreasurechest.com/soundtracks/hatsune-miku-project-diva-mega-mix-plus-windows-gamerip-2022/yzawurdzew/2-002.mp3"
+  "songs": [500038]
+}]
