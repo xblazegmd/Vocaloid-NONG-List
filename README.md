@@ -13,7 +13,7 @@ There will eventually be a seperate list for full size versions, but for now it'
 4. Go to a level in the PD:GS pack (currently only World Is Mine is available)
 5. Use the in-game version from Vocaloid NONG List!
 
-If you want to add a song, please make an issue on this GitHub page.
+If you want to add a song, please make a comment on the megathread issue
 
 # Contributions
 
